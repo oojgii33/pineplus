@@ -3,4 +3,3 @@ node_modules/
 .next/
 *.tsbuildinfo
 # Large source video exceeds standard GitHub file limits; keep it locally for deployment through media storage.
-public/images/promo.mp4
